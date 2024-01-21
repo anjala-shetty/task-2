@@ -1,0 +1,127 @@
+*{
+  margin: 0;
+}
+
+.bg-container{
+  background-color: #E9E9E9;
+  height: 150vh;
+}
+
+.search-container{
+  padding: 20px;
+  width: 70%;
+  margin-left: 20px;
+}
+.inputEl{
+  width: 80%;
+  height: 40px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 0px;
+}
+.searchIcon{
+  align-self: center;
+  margin-left: 80%;
+  width: 50px;
+  height: 20px;
+  padding: 10px;
+  background-color: #E4042C;
+  display: flex;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+  margin-top: -3.8%;
+  border-radius: 5px;
+
+}
+
+.heading{
+  background-color: #E4042C;
+  color: white;
+  width: 95vw;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 300;
+  margin: auto;
+  border-radius: 5px;
+  padding: 4px ;
+  display: flex;
+  justify-content: stretch;
+}
+
+.title{
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+hr{
+  margin: 5px;
+}
+.rules-container{
+  display: inline-flex;
+  
+}
+.paragraph{
+  background-color: white;
+  width: 68vw;
+  height: 55vh;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.subheadings{
+  color: #E4042C;
+  font-size: 20px;
+  padding: 6px;
+}
+
+.rules2-container{
+  float: right;
+  background-color: white;
+  width: 20vw;
+  height: 30vh;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: -30%;
+}
+.sideCon-heading{
+  color: black;
+  font-size: 18px;
+}
+
+.sub-title{
+  color: black;
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.button{
+  background-color: #E4042C;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 7px;
+
+}
+
+.rules3-container{
+  float: right;
+  background-color: white;
+  width: 20vw;
+  height: 10vh;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: -12%;
+}
+.para{
+  text-decoration: underline;
+}
