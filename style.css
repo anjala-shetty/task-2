@@ -68,12 +68,19 @@ hr{
 .paragraph{
   background-color: white;
   width: 68vw;
-  height: 55vh;
+  height: 60vh;
   margin: 30px;
   border-radius: 10px;
   padding: 20px;
 }
-
+.p1{
+  color: rgb(50, 49, 49);
+  padding: 2px;
+}
+span{
+  color: black;
+  font-weight: bold;
+}
 .subheadings{
   color: #E4042C;
   font-size: 20px;
